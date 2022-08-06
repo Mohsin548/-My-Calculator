@@ -1,0 +1,43 @@
+.cal
+{
+    text-align: center;
+font-family: 'Times New Roman', Times, serif;
+    
+ 
+}
+table
+{
+    margin: auto;
+    
+}
+body{
+  background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+
+input
+{
+    font-size: 25px;
+    height: 80px;
+    width: 317px;
+    border: 1px solid white;
+    border-radius: 0px;
+}
+button
+{
+    
+    font-size: 30px;
+    background-color: rgba(146, 76, 204, 0.7);
+    height: 80px;
+    width: 61px;
+    border: 1px solid white;
+ 
+}
+ .table:hover{
+  background-color: rgba(146, 76, 204, 0.9);
+}
+.calculater
+{
+    display: inline-block;
+    padding-top: 2px;
+    border-radius: 0px;
+}
